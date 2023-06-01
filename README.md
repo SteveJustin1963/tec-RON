@@ -1,7 +1,11 @@
 # tec-RON
 
 ## Rons project request
+
 ## terminal access, MINT, etc
+MINT running on the tec1 already has a bitbang 4800 port by adding 1 transistpor and 2 resistors. 
+
+
 ## tec1-raspberry pi interface
  
 
@@ -84,5 +88,14 @@ Both Python and C/C++ provide robust options for serial communication on the Ras
 
 
 ## io addons
+- https://github.com/SteveJustin1963/tec-IO
+- https://github.com/SteveJustin1963/tec-TT-SIO
+- https://github.com/SteveJustin1963/tec-APUS
+- https://github.com/SteveJustin1963/tec-BIT-BANG
+- https://github.com/SteveJustin1963/tec-I2C-SPI
+- https://github.com/SteveJustin1963/tec-SERIAL-BG
+- 
+
+
 ## tec1-gpt bridge
 - 
